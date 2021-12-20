@@ -62,7 +62,7 @@
     "@fortawesome/fontawesome-free": "^5.13.0",
     "bootstrap": "^3.4.1",
     "classnames": "^2.2.6",
-    "core-js": "^3.6.5",
+    "core-js": "^3.19.2",
     "expect": "^26.0.1",
     "glob-all": "^3.2.1",
     "history": "^4.10.1",
